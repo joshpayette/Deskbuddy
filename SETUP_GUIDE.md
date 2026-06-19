@@ -181,6 +181,7 @@ This makes it easy to personalize the device without editing the code every time
 - Make sure the correct COM port is selected
 - Try another USB cable
 - Hold the **BOOT** button during upload if needed
+- `sudo chmod a+rw /dev/ttyUSB0`
 
 ### WiFi does not connect
 
